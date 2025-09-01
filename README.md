@@ -9,3 +9,4 @@
 - Computer screen
 - Bottle of water
 - Salmon
+- Bananas
